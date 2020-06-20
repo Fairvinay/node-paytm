@@ -1,0 +1,14 @@
+{
+  "PARAMS": {
+    "MID": "bgBkEl45403033186773",
+    "WEBSITE": "mozenart",
+    "CHANNEL_ID": "WEB",
+    "INDUSTRY_TYPE_ID": "Retail",
+    "ORDER_ID": "87IRWES20117411",
+    "CUST_ID": "CUSTOMER_ID",
+    "TXN_AMOUNT": "23",
+    "CALLBACK_URL": "http://localhost:8080/callback",
+    "EMAIL": "vickyscab24@gmail.com",
+    "MOBILE_NO": "9561700687"
+  }
+}
